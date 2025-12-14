@@ -86,7 +86,6 @@
 https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJidGt4b21yNTEwd2RoN2dzZW13MmU0em05czdrajhrYW10cDVzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif
 -->
 
-
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJidGt4b21yNTEwd2RoN2dzZW13MmU0em05czdrajhrYW10cDVzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
 ### My Specialties:
