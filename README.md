@@ -85,7 +85,7 @@
 -->
 
 
-<img align="right" src="https://media0.giphy.com/media/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
+<img align="right" src="[https://media0.giphy.com/media/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH](https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s)?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
 ### My Specialties:
 
