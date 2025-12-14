@@ -75,10 +75,6 @@
 
 </p>
 
-### <p align="justify"> ![odoo_certified_partner](https://github.com/user-attachments/assets/81174f85-ec49-45a5-8f5d-cc12794ed5e3)
-
-</p>
-
 ## <p align="justify"> >> 📊 Transforming historical data into future insights is just the beginning. 
 ### <p align="justify"> The true impact comes from turning complex analytics into clear, actionable stories through seamless UX/UI design. We make data not only predictive—but also understandable and actionable for everyone.
 
