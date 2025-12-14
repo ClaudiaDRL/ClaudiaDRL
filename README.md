@@ -82,10 +82,12 @@
 
 <!-- 
 <img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
+
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJidGt4b21yNTEwd2RoN2dzZW13MmU0em05czdrajhrYW10cDVzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif
 -->
 
 
-<img align="right" src="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJidGt4b21yNTEwd2RoN2dzZW13MmU0em05czdrajhrYW10cDVzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
 ### My Specialties:
 
